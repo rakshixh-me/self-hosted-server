@@ -1,26 +1,14 @@
 [
-    {
-      name: "Portfolio",
-      link: "https://rakshixh.tech",
-    },
-    {
-      name: "Code Questic",
-      link: "https://github.com/CodeQuestic",
-    },
-    {
-      name: "Buy Me A Burger",
-      link: "https://buymeacoffee.com/rakshixh",
-    },
-    {
-      name: "Portfolio",
-      link: "https://rakshixh.tech",
-    },
-    {
-      name: "Code Questic",
-      link: "https://github.com/CodeQuestic",
-    },
-    {
-      name: "Buy Me A Burger",
-      link: "https://buymeacoffee.com/rakshixh",
-    },
+  {
+    "name": "Portfolio",
+    "link": "https://rakshixh.tech"
+  },
+  {
+    "name": "Code Questic",
+    "link": "https://github.com/CodeQuestic"
+  },
+  {
+    "name": "Buy Me A Burger",
+    "link": "https://buymeacoffee.com/rakshixh"
+  }
 ]
