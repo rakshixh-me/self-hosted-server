@@ -2,5 +2,9 @@
   "profile_card_data": {
     "title": "Rakshith Acharya",
     "description": "Software Engineer"
+  },
+  "profile_card_style": {
+    "card_background_color": "#FFFDEE",
+    "content_div_color": "#13141B"
   }
 }
