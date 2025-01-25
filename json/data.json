@@ -13,5 +13,16 @@
     "link_color": "#13141B",
     "link_background_color": "#FFFDEE",
     "icon_color": ""
+  },
+  "watermark_data": {
+    "atag_href_link": "https://github.com/rakshixh"
+  },
+  "watermark_style": {
+    "watermark_link_font_size": "2rem",
+    "watermark_link-font_weight": "bold",
+    "watermark_link_color": "#B1E50E",
+    "watermark_link_text_decoration": "none",
+    "watermark_link_cursor": "pointer",
+    "watermark_link_margin": "0rem 0rem 1rem 0rem"
   }
 }
