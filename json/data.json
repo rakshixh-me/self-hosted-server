@@ -8,5 +8,10 @@
     "content_div_color": "#13141B",
     "title_color": "",
     "description_color": ""
+  },
+  "links_style": {
+    "link_color": "#13141B",
+    "link_background_color": "#FFFDEE",
+    "icon_color": ""
   }
 }
